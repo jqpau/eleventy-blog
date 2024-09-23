@@ -9,6 +9,8 @@ This is a draft post, added a picture here.
 
 > A rookie player: Si-Tu Lou (53906958)
 
+![](/public/img/sample.jpeg)
+
 <p style="text-align: center"><img src="/public/img/Screenshot%202024-09-17%20at%2000.07.56.jpg"></p>
 
 Good try!
