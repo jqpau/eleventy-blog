@@ -35,6 +35,7 @@ module.exports = function(eleventyConfig) {
 		let metadata = await eleventyImage(input, {
 			widths: widths || ["auto"],
 			formats,
+			urlPath: "/public/img/",
 			outputDir: path.join(eleventyConfig.dir.output, "img"), // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 		});
 
