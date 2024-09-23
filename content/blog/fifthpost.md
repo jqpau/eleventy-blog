@@ -1,5 +1,5 @@
 ---
-title: This is a fifth post (draft)
+title: This is a fifth post (with a BuzzerBeater gameplay screenshot)
 date: 2024-09-23
 draft: false
 tags:
